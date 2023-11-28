@@ -8,7 +8,7 @@ header{
 .header_logo{
     display: inline-block;
     vertical-align: middle;
-    margin-right: 849px;
+    margin-right: 800px;
 }
 .header_nav{
     display: inline-block;
@@ -64,10 +64,13 @@ header{
     width: 1440px;
     margin: 0 auto;
     background-color: #C2F3EE;
+    padding: 80px 130px;
 }
 .image1{
-    padding: 80px 130px;
+    width: 600px;
+    height: 560px;
     vertical-align: middle;
+    margin-right: 110px;
 }
 .article2{
     width: 460px;
