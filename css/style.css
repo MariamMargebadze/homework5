@@ -69,14 +69,13 @@ header{
 .image1{
     width: 600px;
     height: 560px;
-    vertical-align: middle;
+    vertical-align: top;
     margin-right: 110px;
 }
 .article2{
     width: 460px;
-    height: 538px;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
 }
 .second_title{
     font-family: 'Poppins', sans-serif;
